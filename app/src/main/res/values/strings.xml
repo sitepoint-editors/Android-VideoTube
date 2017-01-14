@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">VideoTube</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="player_error">Error initializing YouTube player</string>
-    <string name="seek_to">Jump To</string>
-    <string name="seek_to_hint">Seconds</string>
-</resources>
